@@ -10,7 +10,7 @@
 Front-End Developer with a **Master’s degree in Software Engineering**.  
 Passionate about building **high-performance web & mobile applications**, with strong skills in **UI/UX design** and **modern frameworks**.  
 
-- 🔭 Currently working at **DGSOFTWARE (Tlemcen)** on web & mobile applications. 
+- 🔭 Currently working at **DGSOFTWARE** on web & mobile applications. 
 - 🚀 I'm a developer with 2 years of experience.
 - 🌱 Constantly learning new technologies in **Front-End, Back-End, and Mobile Development**.  
 - ⚡ Love solving problems, designing intuitive interfaces, and exploring **new tools & architectures**.  
