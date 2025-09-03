@@ -26,7 +26,8 @@ Passionate about building **high-performance web & mobile applications**, with s
 - UI/UX Design (Figma)  
 
 **Back-End**  
-- PHP Laravel  
+- PHP Laravel
+- Python Django  
 - RESTful APIs  
 - MySQL | PostgreSQL | MongoDB  
 
